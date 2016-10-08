@@ -15,5 +15,14 @@
   "dependencies": {
     "network-address": "^1.1.0",
     "node-json-db": "^0.7.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcannizzaro/av-light-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcannizzaro/av-light-api/issues"
+  },
+  "homepage": "https://github.com/fcannizzaro/av-light-api#readme"
 }
