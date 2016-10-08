@@ -17,7 +17,7 @@ var storage = avantek.storage;
 
 # Connector
 
-### on(nulb) / off(bulb)
+### on(bulb) / off(bulb)
 turn on/off device
 
 ### color(bulb, r, g, b)
