@@ -18,7 +18,7 @@ var storage = avantek.storage;
 # Connector
 
 ### on(bulb) / off(bulb)
-turn on/off device
+turn device on/off
 
 ### color(bulb, r, g, b)
 change color using rgb color space
