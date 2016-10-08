@@ -1,0 +1,19 @@
+{
+  "name": "av-light-api",
+  "version": "1.0.0",
+  "description": "Avantek Light Bulb NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avantek",
+    "light-bulb"
+  ],
+  "author": "Francesco Cannizzaro (fcannizzaro)",
+  "license": "MIT",
+  "dependencies": {
+    "network-address": "^1.1.0",
+    "node-json-db": "^0.7.3"
+  }
+}
