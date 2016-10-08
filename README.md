@@ -31,7 +31,16 @@ update device status (rgb color, lum, power)
 
 # Finder
 
+### find(cb)
+find devices on local network
+```javascript
+finder.find( bulb => {
+  // do somethind with light bulb
+});
+```
+
 ### find(cb, sid)
+find specific device by sid
 ```javascript
 finder.find( bulb => {
   // do somethind with light bulb
